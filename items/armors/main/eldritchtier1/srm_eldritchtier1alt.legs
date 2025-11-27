@@ -1,16 +1,16 @@
 {
-  "itemName" : "eldritchtier1pants",
+  "itemName" : "srm_eldritchtier1pantsalt",
   "price" : 320,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "...",
-  "shortdescription" : "Borrowed Bottomwear",
+  "description" : "Lightly armored pants made of breathable material. Specially fitted for ^#ffc181;Leggy^reset; folk.",
+  "shortdescription" : "Borrowed Legwear",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "pantsf.png",
-  "femaleFrames" : "pantsf.png",
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsm.png",
 
   "level" : 1,
   "leveledStatusEffects" : [

@@ -1,18 +1,18 @@
 {
-  "itemName" : "eldritchtier1pantsalt",
-  "price" : 320,
+  "itemName" : "srm_eldritchtier2pantsalt",
+  "price" : 960,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "...",
-  "shortdescription" : "Borrowed Legwear",
+  "description" : "... Specially fitted for ^#ffc181;Leggy^reset; folk.",
+  "shortdescription" : "Hunted Legwear",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",
   "femaleFrames" : "pantsm.png",
 
-  "level" : 1,
+  "level" : 2,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
@@ -36,11 +36,11 @@
     }
   ],
 
-  "itemTags" : [ "tier1armour" ],
+  "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
-    // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // BROWN
+    { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

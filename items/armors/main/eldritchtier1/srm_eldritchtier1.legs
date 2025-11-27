@@ -1,18 +1,18 @@
 {
-  "itemName" : "eldritchtier2pants",
-  "price" : 960,
+  "itemName" : "srm_eldritchtier1pants",
+  "price" : 320,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "...",
-  "shortdescription" : "Hunted Bottomwear",
+  "description" : "Lightly armored bottomwear made of breathable material. Specially fitted for ^#515384;Shoggy^reset; folk.",
+  "shortdescription" : "Borrowed Bottomwear",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsf.png",
   "femaleFrames" : "pantsf.png",
 
-  "level" : 2,
+  "level" : 1,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
@@ -36,11 +36,11 @@
     }
   ],
 
-  "itemTags" : [ "tier2armour" ],
+  "itemTags" : [ "tier1armour" ],
 
   "colorOptions" : [
-    // BROWN
-    { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" },
+    // BLACK
+    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -16,6 +16,7 @@
   "effectDirectives" : "?replace=FFFFFFFF=000000FF?replace=FEFFFFFF=000000FF?replace=9bd4ffFF=301565FF?replace=31a6ffFF=472193FF",
   "defaultBlueprints" : {
     "tier1" : [
+	  
 // Shoggoth Exclusives
 	  { "item" : "srm_shoggothplushie" },	
 	  
@@ -237,12 +238,23 @@
       { "item" : "srm_shoggothmechadresslegs" },
 	  
 // Anvil
+      { "item" : "srm_eldritchtier1head" },
+      { "item" : "srm_eldritchtier1chest" },
+      { "item" : "srm_eldritchtier1pants" },
+      { "item" : "srm_eldritchtier2head" },
+      { "item" : "srm_eldritchtier2chest" },
+      { "item" : "srm_eldritchtier2pants" },
+	  
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
       { "item" : "tungstenhammer" },
 	  
 // Anvil2
+      { "item" : "srm_eldritchtier3head" },
+      { "item" : "srm_eldritchtier3chest" },
+      { "item" : "srm_eldritchtier3pants" },
+
       { "item" : "titaniumdagger" },
       { "item" : "titaniumspear" },
       { "item" : "durasteelbroadsword" },

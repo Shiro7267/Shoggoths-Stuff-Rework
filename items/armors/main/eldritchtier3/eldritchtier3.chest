@@ -1,5 +1,5 @@
 {
-  "itemName" : "eldritchtier3chest",
+  "itemName" : "srm_eldritchtier3chest",
   "price" : 3200,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,

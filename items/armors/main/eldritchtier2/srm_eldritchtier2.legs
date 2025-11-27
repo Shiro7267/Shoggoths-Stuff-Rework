@@ -1,47 +1,46 @@
 {
-  "itemName" : "eldritchtier1head",
-  "price" : 480,
-  "inventoryIcon" : "icons.png:head",
+  "itemName" : "srm_eldritchtier2pants",
+  "price" : 960,
+  "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
-  "category" : "headarmour",
-  "description" : "...",
-  "shortdescription" : "Borrowed Headwear",
+  "category" : "legarmour",
+  "description" : "... Specially fitted for ^#515384;Shoggy^reset; folk.",
+  "shortdescription" : "Hunted Bottomwear",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png",
+  "maleFrames" : "pantsf.png",
+  "femaleFrames" : "pantsf.png",
 
-  "level" : 1,
+  "level" : 2,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
-      "baseMultiplier" : 1.15
+      "baseMultiplier" : 1.1
     },
     {
       "levelFunction" : "standardArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.3
+      "amount" : 0.2
     },
     {
       "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 3
+      "amount" : 2
     },
     {
       "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 2
     }
   ],
 
-  "itemTags" : [ "tier1armour" ],
+  "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
-    // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // BROWN
+    { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
