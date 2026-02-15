@@ -1,7 +1,7 @@
 [
   {
-    "op": "replace",
-    "path": "/blockingStat",
+    "op": "add",
+    "path": "/blockingStat/-",
     "value": "srm_eldritchracial"
   }
 ]
