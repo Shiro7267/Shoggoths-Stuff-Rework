@@ -1,0 +1,8 @@
+{
+  "name" : "srm_teleportentity",
+  "defaultDuration" : 0.1,
+
+  "scripts" : [
+    "srm_teleportentity.lua"
+  ]
+}
